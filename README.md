@@ -110,7 +110,7 @@ results/example.com_20261023_103000/
 
 ## Author
 
-**Shreyash Uparkar** · Founder, BinCrypt Securities · [GitHub](https://github.com/shreyash-1406)
+**Shreyash Uparkar** · [GitHub](https://github.com/shreyash-1406)
 
 ## License
 
